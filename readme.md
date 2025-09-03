@@ -14,6 +14,9 @@ It includes tools for segment hitbox definition, character mapping, display simu
 | `character_mapper.py` | Assign Unicode characters to segment combinations via direct interaction |
 | `typing_bar.py`     | Render typed strings using mapped glyphs with decimal logic                |
 | `glyph_viewer.py`   | Display all mapped characters and their segment data                        |
+| `pekseg_console.py` | GUI console for sending serial commands and triggering display updates |
+| `pekseg_display.py` | Tkinter-based renderer for segmented glyphs with overlay and frame control |
+| `pekseg_parser.py` | Serial protocol interpreter for segment injection, slot control, and frame commits |
 ## 🔧 Requirements
 
 - Python 3.x  
@@ -30,6 +33,7 @@ python segment_mapper.py       # Define hitboxes for each segment
 python character_mapper.py     # Map characters to segment combinations
 python typing_bar.py           # Render typed strings in virtual display
 python glyph_viewer.py         # Preview all mapped glyphs
+python pekseg_console.py       # Launch console + display for live segment injection
 ```
 ## ⚙️ Features
 
@@ -39,9 +43,11 @@ python glyph_viewer.py         # Preview all mapped glyphs
 - Console logging for debugging character rendering and segment behavior
 ## 👥 Credits
 
-- Isabel — Project Lead and Developer  
-- Copilot — Technical Contributor  
+- Isabel — Project Lead, Creative Director 
+- Copilot — Lead Developer
 - Jenny — Interface Testing  
+- Pepper — Security Advisor
+- Claire — Executive Napping Lead
 - Pekero — Original PEKSEG Display Design
 ## 📄 License
 
