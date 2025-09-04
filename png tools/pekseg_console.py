@@ -1,8 +1,8 @@
 import tkinter as tk
 from tkinter import filedialog, colorchooser
 from pekseg_display import launch_display
-from pekseg_parser import glyph_buffer
-
+from pekseg_parser import glyph_buffer, init_buffer
+from pekseg_console import launch_console
 
 segment_color_mode = "static"
 user_selected_color = (255, 255, 255)
@@ -55,10 +55,14 @@ def launch_console(dispatch, root):
 
 # Launcher
 if __name__ == "__main__":
-    dispatch, root = launch_display()
+    init_buffer(12, 9)  # ✅ Initialize buffer first
+
+    dispatch, root = launch_display()       # ✅ Now display binds to the correct buffer
+    print(f"[DEBUG] glyph_buffer size: {len(glyph_buffer)}")  # Should be 108
+
     launch_console(dispatch, root)
-    glyph_buffer[0].add(33)  # Activate segment 33 in slot 0
-    dispatch(3)  # Trigger render
-    render_display()
+
+    glyph_buffer[0].add(33)                 # ✅ Safe to inject now
+    dispatch(3)                             # Trigger render
 
     root.mainloop()

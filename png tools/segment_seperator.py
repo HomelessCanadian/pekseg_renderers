@@ -2,6 +2,21 @@ import cv2
 import numpy as np
 from PIL import Image
 
+# This script separates segments from a master PNG image with transparency
+# Make sure the master image has DISTINCE segments with TRANSPARENT backgrounds.
+# Each segment is saved as a separate PNG file with transparency, maintaining the original image size.
+# The segments are saved in a folder named "segments". Please create this folder if it doesn't exist.
+# Ensure you have OpenCV and Pillow installed: pip install opencv-python pillow
+# Usage: Place your master PNG image named "master_pekseg.png" in the same directory as this script and run it.
+# Credits: Adapted from https://stackoverflow.com/a/65530376 <-- dead link btw
+# CREDITS: ChatGPT for the base code.
+# Copyright (c) 2024 Homeless. All rights reserved. Use at your own risk. No warranties provided. MIT License. See LICENSE file. Please create the LICENSE file if it doesn't exist.
+# PATCH NOTES:
+# v1.0.0 - Initial segment extraction ritual
+# v1.0.1 - Added sarcasm to credits
+# v1.0.2 - Confirmed the link is dead, but spiritually relevant
+
+
 # Load master image with alpha channel
 master_path = "master_pekseg.png"
 img = cv2.imread(master_path, cv2.IMREAD_UNCHANGED)

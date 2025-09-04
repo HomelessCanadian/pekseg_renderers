@@ -1,0 +1,308 @@
+{
+  "svg_2": {
+    "filename": "svg_2.svg",
+    "tag": "polygon",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_3": {
+    "filename": "svg_3.svg",
+    "tag": "polygon",
+    "transform": "matrix(1, 0, 0, 1, 0, 0)",
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_4": {
+    "filename": "svg_4.svg",
+    "tag": "rect",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_5": {
+    "filename": "svg_5.svg",
+    "tag": "rect",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_6": {
+    "filename": "svg_6.svg",
+    "tag": "polygon",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_7": {
+    "filename": "svg_7.svg",
+    "tag": "polygon",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_8": {
+    "filename": "svg_8.svg",
+    "tag": "rect",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_9": {
+    "filename": "svg_9.svg",
+    "tag": "rect",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_10": {
+    "filename": "svg_10.svg",
+    "tag": "path",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_12": {
+    "filename": "svg_12.svg",
+    "tag": "path",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_13": {
+    "filename": "svg_13.svg",
+    "tag": "path",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_14": {
+    "filename": "svg_14.svg",
+    "tag": "polygon",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_15": {
+    "filename": "svg_15.svg",
+    "tag": "rect",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_16": {
+    "filename": "svg_16.svg",
+    "tag": "polygon",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_17": {
+    "filename": "svg_17.svg",
+    "tag": "rect",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_18": {
+    "filename": "svg_18.svg",
+    "tag": "rect",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_19": {
+    "filename": "svg_19.svg",
+    "tag": "polygon",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_20": {
+    "filename": "svg_20.svg",
+    "tag": "polygon",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_21": {
+    "filename": "svg_21.svg",
+    "tag": "rect",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_22": {
+    "filename": "svg_22.svg",
+    "tag": "rect",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_23": {
+    "filename": "svg_23.svg",
+    "tag": "rect",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_24": {
+    "filename": "svg_24.svg",
+    "tag": "polygon",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_25": {
+    "filename": "svg_25.svg",
+    "tag": "polygon",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_26": {
+    "filename": "svg_26.svg",
+    "tag": "polygon",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_27": {
+    "filename": "svg_27.svg",
+    "tag": "rect",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_28": {
+    "filename": "svg_28.svg",
+    "tag": "polygon",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_29": {
+    "filename": "svg_29.svg",
+    "tag": "rect",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_30": {
+    "filename": "svg_30.svg",
+    "tag": "rect",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_31": {
+    "filename": "svg_31.svg",
+    "tag": "path",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_32": {
+    "filename": "svg_32.svg",
+    "tag": "path",
+    "transform": "matrix(1, 0, 0, 1, 0, 0)",
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_33": {
+    "filename": "svg_33.svg",
+    "tag": "path",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_34": {
+    "filename": "svg_34.svg",
+    "tag": "polygon",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_35": {
+    "filename": "svg_35.svg",
+    "tag": "polygon",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_36": {
+    "filename": "svg_36.svg",
+    "tag": "polygon",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_37": {
+    "filename": "svg_37.svg",
+    "tag": "polygon",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_38": {
+    "filename": "svg_38.svg",
+    "tag": "polygon",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_39": {
+    "filename": "svg_39.svg",
+    "tag": "polygon",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_1": {
+    "filename": "svg_1.svg",
+    "tag": "ellipse",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_40": {
+    "filename": "svg_40.svg",
+    "tag": "rect",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_41": {
+    "filename": "svg_41.svg",
+    "tag": "rect",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_43": {
+    "filename": "svg_43.svg",
+    "tag": "rect",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_42": {
+    "filename": "svg_42.svg",
+    "tag": "rect",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_11": {
+    "filename": "svg_11.svg",
+    "tag": "path",
+    "transform": "matrix(1, 0, 0, 1, 0, 0)",
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_89": {
+    "filename": "svg_89.svg",
+    "tag": "path",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_90": {
+    "filename": "svg_90.svg",
+    "tag": "rect",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_91": {
+    "filename": "svg_91.svg",
+    "tag": "path",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_93": {
+    "filename": "svg_93.svg",
+    "tag": "path",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_96": {
+    "filename": "svg_96.svg",
+    "tag": "rect",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_95": {
+    "filename": "svg_95.svg",
+    "tag": "path",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_94": {
+    "filename": "svg_94.svg",
+    "tag": "path",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  },
+  "svg_98": {
+    "filename": "svg_98.svg",
+    "tag": "rect",
+    "transform": null,
+    "viewBox": "0 0 685.2 997.4"
+  }
+}

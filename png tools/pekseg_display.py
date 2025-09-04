@@ -43,6 +43,7 @@ def colorize_segment(img, rgb):
 # GUI setup
 def launch_display():
     init_buffer(GRID_COLS, GRID_ROWS)
+    print(f"[DISPLAY INIT] glyph_buffer size: {len(glyph_buffer)}")  # Should be 108
     root = tk.Tk()
     root.title("PEKSEG Display")
     canvas = tk.Canvas(root, width=GRID_COLS * GLYPH_WIDTH, height=GRID_ROWS * GLYPH_HEIGHT, bg="black")
