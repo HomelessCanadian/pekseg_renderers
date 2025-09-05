@@ -4,7 +4,7 @@ Virtual display renderers based on Pekero's custom PEKSEG 38-segment display.
 Inspired by [38 SEGMENT DISPLAY – Pekero](https://www.youtube.com/watch?v=Th-u84OkpeQ)
 ## 📦 Overview
 
-**pekseg_renderer** is a Python toolkit for designing and rendering characters on segmented virtual displays.  
+**pekseg_renderer** is a Python toolkit for designing and rendering characters on virtual segmented displays.
 It includes tools for segment hitbox definition, character mapping, display simulation, and glyph previewing.
 ## 🧰 Included Tools
 
@@ -29,9 +29,8 @@ It includes tools for segment hitbox definition, character mapping, display simu
 Run each tool independently from the command line:
 
 ```bash
-python segment_mapper.py       # Define hitboxes for each segment
+python segment_mapper.py       # Define hitboxes for each segment, generates segment_hitboxes.json
 python character_mapper.py     # Map characters to segment combinations
-python typing_bar.py           # Render typed strings in virtual display
 python glyph_viewer.py         # Preview all mapped glyphs
 python pekseg_console.py       # Launch console + display for live segment injection
 ```
